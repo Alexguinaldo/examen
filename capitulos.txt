@@ -1,3 +1,4 @@
 Capitulo1.txt: Git es un sistema de control de versiones
 Capitulo2.txt: El creador de Git se llama Linus Torvalds
 Capitulo3.txt: Git permite la creacion de ramas
+Capitulo2.txt: El creador de Git se llama Linus Torvalds
